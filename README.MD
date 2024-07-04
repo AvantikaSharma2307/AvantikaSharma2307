@@ -22,7 +22,7 @@
 ### Snake Animation 🐍
 
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AvantikaSharma2307/AvantikaSharma2307/main/snake.yml" alt="Snake animation" />
 
 
 ###
