@@ -19,8 +19,12 @@
 ###
 
 <br clear="both">
+## Snake Animation 🐍
 
-<img src="https://github.com/AvantikaSharma2307/AvantikaSharma2307/blob/main/snake.yml" alt="Snake animation" />
+Add a fun Snake animation to your GitHub profile!
+
+<img src="https://raw.githubusercontent.com/AvantikaSharma2307/AvantikaSharma2307/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
