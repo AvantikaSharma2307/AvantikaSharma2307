@@ -1,27 +1,81 @@
-### Hi there 👋, my name is Avantika
-#### A passionate full stack WEB Developer
-![A passionate full stack WEB Developer](https://www.bing.com/th/id/OGC.baaeeea45ba41bd570d49565c97999e0?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f9f%2fc6%2f0e9fc6ffbdb4c2b4dd7bde19392c9131.gif&ehk=w%2bxzn%2f3w5%2fBAAy%2bOYo0xfE2mjCOxDWA5ZWQAyBKA%2fx8%3d)
+<h2 align="left">Hi 👋! My name is Avantika Sharma .</h2>
 
+###
 
-Skills: C/PYTHON/DJANGO/ REACT / JS / HTML / CSS
+<p align="left">"Where pixels meet purpose: crafting tech with heart ❤️"</p>
 
-- 🌱 I’m currently learning React & Django 
-- 💬 Ask me about React ,Javascript 
-- 📫 How to reach me: avantikasharma2307@gmail.com 
-- 😄 Pronouns: she/her 
+###
 
+<p align="left">🌱 I’m currently learning React & Django<br>💬 Ask me about React ,Javascript<br>📫 How to reach me: avantikasharma2307@gmail.com<br>😄 Pronouns: she/her</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AvantikaSharma2307)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avantika-sharma-a65b17250/)  
+###
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvantikaSharma2307&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AvantikaSharma2307&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvantikaSharma2307&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvantikaSharma2307)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvantikaSharma2307&show_icons=true&count_private=true)  
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/AvantikaSharma2307/AvantikaSharma2307/output/snake.svg" alt="Snake animation" />
 
+###
 
-![GitHub metrics](https://metrics.lecoq.io/AvantikaSharma2307)  
+<div align="center">
+  <img height="200" src="C:\Users\avant\OneDrive\Pictures\Screenshots"  />
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AvantikaSharma2307)  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AvantikaSharma2307/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
