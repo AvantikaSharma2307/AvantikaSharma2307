@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AvantikaSharma2307/AvantikaSharma2307/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AvantikaSharma2307/AvantikaSharma2307/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
