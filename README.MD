@@ -19,7 +19,7 @@
 ###
 
 <br clear="both">
-## Snake Animation 🐍
+### Snake Animation 🐍
 
 
 <img src="snake.yml" alt="Snake animation" />
