@@ -1,32 +1,32 @@
-<h2 align="left">Hi 👋! My name is Avantika Sharma .</h2>
+# Welcome 👋
+<h2 align="center"> I am a nerdy and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
-###
+> **I am a B.Tech undergrad in Computer Science with a passion for developing softwares, a craving learner and innovator with good logical problem solving skills. I try casting creative and innnovative solutions to real world problems. Enjoy working in Open Source, with Communities and Technical Societies. Deeply value project based learning experiences and working in a team. Strong hold on Data Structures and Algorithms. Creating value and impact in bringing about a change.**
+## Tech Stacks and Tools:
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://digitalocean.com" target="_blank"> <img src="https://theorg.com/_next/image?url=https%3A%2F%2Fcdn.theorg.com%2F51a96700-dcc2-43ed-ae9f-540de0eb3fd4_thumb.jpg&w=1920&q=75" alt="digitalocean" width="40" height="40"/> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt="ubuntu" width="40" height="40"/> </a> <a href="https://elastic.co" target="_blank"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" alt="elasticstack" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="left">"Where pixels meet purpose: crafting tech with heart ❤️"</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devAyushDubey&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAyushDubey&layout=compact) [![Leetcode Stats](https://leetcard.jacoblin.cool/dubeyayush02?theme=wtf&ext=heatmap)](https://leetcode.com/millenium103)
 
-###
-![A passionate full stack WEB Developer](https://www.bing.com/th/id/OGC.baaeeea45ba41bd570d49565c97999e0?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f9f%2fc6%2f0e9fc6ffbdb4c2b4dd7bde19392c9131.gif&ehk=w%2bxzn%2f3w5%2fBAAy%2bOYo0xfE2mjCOxDWA5ZWQAyBKA%2fx8%3d)
+## Let's connect 🤝
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
+  <a href="https://www.linkedin.com/in/ayush-dubey-/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/33064931/192891277-e2528754-fdca-473a-be7a-25149ae295c8.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/_iam.ayush_/"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/33064931/192891342-3c88a026-50f3-430d-b582-96a57b019e32.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/c/ADIDAT"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/33064931/192891435-24b5573e-5715-484a-b398-1db38348d9ea.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/thatshityguy"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p> &nbsp;
 
+<br> &nbsp;
 
-Skills: C/PYTHON/DJANGO/ REACT / JS / HTML / CSS
+&nbsp;
+## 🔥 Streak stats
 
-- 🌱 I’m currently learning React & Django 
-- 💬 Ask me about React ,Javascript 
-- 📫 How to reach me: avantikasharma2307@gmail.com 
-- 😄 Pronouns: she/her 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AvantikaSharma2307)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avantika-sharma-a65b17250/)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvantikaSharma2307)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvantikaSharma2307&show_icons=true&count_private=true)  
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/AvantikaSharma2307)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AvantikaSharma2307)  
-
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/devAyushDubey/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devAyushDubey's streak" src="https://streak-stats.demolab.com/?user=devAyushDubey&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
