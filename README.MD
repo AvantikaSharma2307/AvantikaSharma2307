@@ -1,5 +1,5 @@
 # Welcome 👋
-<h2 align="center"> I am a nerdy and creative developer from India.👩🏾‍💻 </h2> &nbsp;
+<h2 align="center"> A creative problem-solver who turns ideas into functional reality with code..👩🏾‍💻 </h2> &nbsp;
 
 > **I am a B.Tech undergrad in Computer Science with a passion for developing softwares, a craving learner and innovator with good logical problem solving skills. I try casting creative and innnovative solutions to real world problems. Enjoy working in Open Source, with Communities and Technical Societies. Deeply value project based learning experiences and working in a team. Strong hold on Data Structures and Algorithms. Creating value and impact in bringing about a change.**
 ## Tech Stacks and Tools:
