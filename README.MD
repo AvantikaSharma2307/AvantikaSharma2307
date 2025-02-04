@@ -27,7 +27,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/devAyushDubey/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devAyushDubey's streak" src="https://streak-stats.demolab.com/?user=devAyushDubey&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/AvantikaSharma2307/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AvantikaSharma2307 streak" src="https://streak-stats.demolab.com/?user=AvantikaSharma2307&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
